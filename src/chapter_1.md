@@ -24,6 +24,5 @@ A Simple model for todo items:
                 }
 ```
 
-
 Source: [TodosModel.fs](https://github.com/tonyx/Micro_ES_FSharp_Lib/blob/main/Sharpino.Sample/models/TodosModel.fs)
 
